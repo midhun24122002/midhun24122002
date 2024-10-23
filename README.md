@@ -19,7 +19,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 ### 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,pytorch,matlab,tensorflow,git,c,flask,mysql,opencv,pkl,py,r,vscode,visualstudio,ai,html,java,css&perline=8)
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,pytorch,matlab,tensorflow,git,c,flask,mysql,opencv,pkl,py,r,vscode,visualstudio,ai,html,java,css&perline=10)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=midhun24122002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
